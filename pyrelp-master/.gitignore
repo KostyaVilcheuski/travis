@@ -1,0 +1,21 @@
+# Python
+__pycache__
+*.pyc
+
+# Test results
+log.html
+report.html
+output.xml
+
+# Test artifacts
+test/receiver/logs
+test/sender/send
+test/receiver/receive
+
+# Setuptools
+build/
+*.egg-info
+dist/
+
+# Self generated
+MANIFEST.in
